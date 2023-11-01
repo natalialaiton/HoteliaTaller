@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5{
 
     nav{
     grid-area: nav;
-    display: grid;
+    display: grid; /*Decirle que es cuadrículax*/
     grid-template-areas:/*Para ajustar el contenido*/
         "logo"
         "menu";
